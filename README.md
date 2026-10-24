@@ -629,6 +629,7 @@ _Related: [Communication - Video Conferencing](#communication---video-conferenci
 
 _Related: [Blogging Platforms](#blogging-platforms), [Static Site Generators](#static-site-generators), [Photo Galleries](#photo-galleries)_
 
+- [AI-CMS](https://github.com/holyxing/ai-cms) - AI-native CMS for running many sites from one admin, with a built-in AI writing assistant (OpenAI-compatible, Anthropic, Ollama) and Astro static site publishing. `Apache-2.0` `Python/Docker`
 - [Alfresco Community Edition](https://www.alfresco.com/products/community/download) - The open source Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. ([Source Code](https://github.com/Alfresco/alfresco-community-repo)) `LGPL-3.0` `Java`
 - [Apostrophe](https://apostrophecms.com/) - CMS with a focus on extensible in-context editing tools. ([Demo](https://demo.apostrophecms.com/), [Source Code](https://github.com/apostrophecms/apostrophe)) `MIT` `Nodejs`
 - [Automad](https://automad.org/) - Flat-file content management system and template engine. ([Demo](https://try.automad.org/), [Source Code](https://github.com/marcantondahmen/automad)) `MIT` `PHP/Docker`
